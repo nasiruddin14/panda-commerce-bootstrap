@@ -1,0 +1,17 @@
+.bgn{
+    background-color: rgb(252, 234, 232);
+}
+#bgn-bag{
+    background-color: orchid;
+}
+.container-last{
+    height: 300px;
+    background-color: rgb(252, 234, 232);
+}
+.panda-btn{
+    color: white;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    padding: 9px 30px;
+    border: none;
+    border-radius: 8px;
+}
